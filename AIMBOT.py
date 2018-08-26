@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#nyoba ya
 from LineAPI.linepy import *
 from LineAPI.akad.ttypes import Message
 from LineAPI.akad.ttypes import ContentType as Type
